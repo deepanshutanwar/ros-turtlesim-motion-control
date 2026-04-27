@@ -8,8 +8,7 @@ This project answers that using ROS and TurtleSim. You give the turtle a target 
 
 ## Demo
 
-Video walkthrough: [ADD YOUR VIDEO LINK HERE]
-
+Demo link: https://youtu.be/ZOvmloV8w8E
 ---
 
 ## The Idea
